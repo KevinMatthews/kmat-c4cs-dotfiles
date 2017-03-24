@@ -1,0 +1,11 @@
+[user]
+	email = kevin.matthews345@gmail.com
+	name = Kevin Matthews
+
+[help] 
+	autocorrect = 1
+
+[alias]
+	st = status
+	ll = log --stat --abbrev-commit
+
