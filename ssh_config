@@ -1,0 +1,4 @@
+# CAEN
+Host cn-kmat
+	HostName login.engin.umich.edu
+	User kmat
